@@ -1,0 +1,15 @@
+{"file":"goods.png","frames":{
+"lb_14":{"x":1,"y":180,"w":107,"h":172,"offX":31,"offY":27,"sourceW":160,"sourceH":213},
+"lb_1":{"x":389,"y":1,"w":100,"h":200,"offX":45,"offY":1,"sourceW":164,"sourceH":228},
+"lb_2":{"x":98,"y":354,"w":94,"h":176,"offX":16,"offY":25,"sourceW":118,"sourceH":228},
+"lb_3":{"x":1,"y":1,"w":129,"h":177,"offX":5,"offY":25,"sourceW":137,"sourceH":228},
+"lb_4":{"x":110,"y":190,"w":108,"h":162,"offX":9,"offY":39,"sourceW":133,"sourceH":228},
+"lb_5":{"x":364,"y":203,"w":113,"h":150,"offX":18,"offY":50,"sourceW":140,"sourceH":228},
+"lb_6":{"x":403,"y":521,"w":95,"h":132,"offX":22,"offY":68,"sourceW":158,"sourceH":228},
+"lb_7":{"x":132,"y":1,"w":122,"h":187,"offX":32,"offY":41,"sourceW":164,"sourceH":239},
+"lb_8":{"x":403,"y":355,"w":90,"h":164,"offX":18,"offY":65,"sourceW":118,"sourceH":239},
+"lb_9":{"x":256,"y":170,"w":106,"h":177,"offX":31,"offY":50,"sourceW":146,"sourceH":239},
+"lb_10":{"x":1,"y":354,"w":95,"h":177,"offX":18,"offY":50,"sourceW":124,"sourceH":239},
+"lb_11":{"x":256,"y":1,"w":131,"h":167,"offX":9,"offY":60,"sourceW":149,"sourceH":239},
+"lb_12":{"x":318,"y":355,"w":83,"h":184,"offX":13,"offY":43,"sourceW":149,"sourceH":239},
+"lb_13":{"x":220,"y":349,"w":96,"h":176,"offX":45,"offY":24,"sourceW":153,"sourceH":213}}}
